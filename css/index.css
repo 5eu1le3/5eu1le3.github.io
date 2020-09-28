@@ -149,10 +149,10 @@ section>div:nth-last-child(1){
   height:100%;
 }
 
-.slide_in li:nth-child(1){background:url(../img/mv1.png);}
-.slide_in li:nth-child(2){background:url(../img/mv2.png);}
-.slide_in li:nth-child(3){background:url(../img/mv3.png);}
-.slide_in li:nth-child(4){background:url(../img/mv4.png);}
+.slide_in li:nth-child(1){background:url(../img/mv0.png);}
+.slide_in li:nth-child(2){background:url(../img/mv1.png);}
+.slide_in li:nth-child(3){background:url(../img/mv2.png);}
+.slide_in li:nth-child(4){background:url(../img/mv3.png);}
 
 .slide_in input{display:none;}
 .slide_in label{
